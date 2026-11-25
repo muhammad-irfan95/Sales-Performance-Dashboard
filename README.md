@@ -6,7 +6,7 @@
 
 ## 🖼️ Dashboard Preview
 
-![Sales Performance Dashboard](<img width="1340" height="752" alt="Sales- Performance Dasboard" src="https://github.com/user-attachments/assets/7db5fc7c-8be6-4bbe-ae39-6b102f2a1eec" />
+![Sales Performance Dashboard](<img width="1340" height="752" alt="Sales- Performance Dasboard" src="https://github.com/user-attachments/assets/5a76a584-6d6c-4723-ac5b-7d9171b3bd19" />
 )
 
 ---
